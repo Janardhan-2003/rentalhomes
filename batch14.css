@@ -1,0 +1,227 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: url("https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    height: 100vh;
+    background-size: cover;
+    font-family: "verdana";
+}
+.c-image {
+    border: solid;
+    border-width: 3px;
+    border-color: white;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 28px;
+
+}
+.nav-bg{
+    background-color: #8a6f27;
+}
+span{
+    color: #afc0db;
+    font-size: 40px;
+    font-weight: bold;
+}
+.signing-button{
+    height: 40px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.para{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 250px;
+}
+.num{
+    color: red;
+    font-size: 60px;
+    font-weight: bold;
+}
+.signing-section{
+    background-color: black;
+
+}
+.text-box{
+    width: 300px;
+}
+.offer-num{
+    color: red;
+    font-size: 70px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+.offer-para{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.icon {
+    font-size: 18px;
+    background-color: grey;
+    height: 40px;
+    width: 40px;
+    color: black;
+    text-align: center;
+    border-radius: 22px;
+    padding: 10px;
+}
+.register-span{
+    color: blue;
+    font-size: 18px;
+}
+.registration-body{
+    font-family: Calibri;
+    background-image: url("https://ak7.picdn.net/shutterstock/videos/21555397/thumb/1.jpg");
+    color: white;
+}
+input[type="text"] {
+    width: 250px;
+}
+input[type="submit"], input[type="reset"] {
+    width: 77px;
+    height: 27px;
+    position: relative;left: 180px;
+}
+.registration-h1{
+    font-size: 50px;
+    font-family: "Papyrus";
+    font-weight: bold;
+}
+.registration-form{
+    text-align: center;
+    font-family: Calibri;
+    font-size: 20px;
+    border: 3px solid red;
+    width: 600px;
+    margin: 20px auto;
+    background-color: black;
+}
+td {
+    padding: 10px;
+}
+td:first-child {
+    text-align: right;
+    font-weight: bold;
+}
+td:last-child {
+    text-align: left;
+}
+
+
+.background-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.tourism-card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 23px;
+    color: #f19116;
+    padding-top: 15px;
+}
+
+.paragraph {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #7b8794;
+    margin-bottom: 35px;
+}
+
+.button {
+    color: white;
+    background-color: #f19116;
+    width: 90px;
+    height: 33px;
+    border-width: 0px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.listpage-bg-container {
+    background-color: #222222;
+    height: 130vh;
+    background-size: cover;
+    padding: 15px;
+}
+
+.listpage-flat-container {
+    background-color: #ffffff;
+    height: 30vh;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.listpage-small-iamge {
+    height: 30vh;
+    width: 70px;
+}
+
+.flat-text {
+    font-family: "Bree serif";
+    padding: 13px;
+}
+
+.flat-heading {
+    color: #0f0e46;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.flat-paragraph {
+    color: #6c6b70;
+    font-size: 11px;
+    font-weight: 600;
+}
+
+.description-page {
+    background-color: #222222;
+    height: 70vh;
+    font-family: "Bree Serif";
+    background-size: cover;
+    padding: 20px;
+}
+
+.description-images {
+    height: 45vh;
+    width: 100vw;
+}
+
+.location-image {
+    height: 20px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.description-heading {
+    color: #f19116;
+    font-size: 23px;
+}
+
+.description-para {
+    color: #ffffff;
+    font-size: 13px;
+    margin-top: 12px;
+
+}
+
+.horizontal-line {
+    background-color: #ffffff;
+    height: 2px;
+    width: 100%;
+    border-radius: 5px;
+}
